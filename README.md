@@ -6,7 +6,16 @@
 
 see the [INSTALLATION.txt](https://github.com/kskmar/ReSort-IT/blob/master/installation.txt) file for details
 
-### Download the Datasets 
+### Requirements
+To install the required python packages simply type
+
+pip install -r requirements.txt
+
+### Built With
+
+* [Mask_RCNN](https://github.com/matterport/Mask_RCNN)
+
+## Download the Datasets 
 
 To download the datasets with images and annotation files from:
 
@@ -16,20 +25,12 @@ To download the datasets with images and annotation files from:
 
 **Synthetic-Complex Dataset** <https://drive.google.com/file/d/18EeXpoLuDhgnUoVXEiw4lhYWZxrTmZRa/view?usp=sharing>
 
-### Requirements
-To install the required python packages simply type
-
-pip install -r requirements.txt
-
-## Built With
-
-* [Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 
 ## Running the tests
 
 Running the source codes
 
-### Publications
+## Publications
 Vision-based  Material  Classification  for  Robotic  Urban  Waste  Sorting
 
 ## Authors
@@ -47,7 +48,7 @@ This project is licensed under the BSD License - see the [LICENSE.md](https://gi
 
 * This work was  additionally supported by computational time granted from the National Infrastructures for Research and Technology S.A. (GRNET) in the National HPC facility - ARIS - under project DeWaste ID pa200607.
 
-### Results
+## Results
 
 ![alt text](https://github.com/kskmar/ReSort-IT/blob/master/images/results.png)
 
