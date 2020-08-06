@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+see the [INSTALLATION.txt](https://github.com/kskmar/ReSort-IT/blob/master/installation.txt) file for details
 
 ### Requirements
 To install the required python packages simply type
@@ -30,7 +30,6 @@ Running the source codes
 
 ### Publications
 Vision-based  Material  Classification  for  Robotic  Urban  Waste  Sorting
-
 
 ## Authors
 
