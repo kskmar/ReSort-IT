@@ -33,6 +33,7 @@ Vision-based  Material  Classification  for  Robotic  Urban  Waste  Sorting
 
 ## Authors
 
+M. Koskinopoulou, F. Raptopoulos, G. Papadopoulos, N. Mavrakis and M. Maniadakis
 See the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
