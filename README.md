@@ -1,6 +1,6 @@
 # ReSORT-IT 
 
-![alt text](https://github.com/kskmar/ReSort-IT/blob/master/images/Sort-IT.png "Logo Title Text 1")
+(https://github.com/kskmar/ReSort-IT/blob/master/images/Sort-IT.png "Logo Title Text 1")
 
 ## Getting Started
 
