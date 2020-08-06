@@ -1,6 +1,6 @@
 # ReSORT-IT 
 
-(https://github.com/kskmar/ReSort-IT/blob/master/images/Sort-IT.png "Logo Title Text 1")
+![alt text](https://github.com/kskmar/ReSort-IT/blob/master/images/Sort-IT.png "Logo Title Text 1")
 
 ## Getting Started
 
@@ -9,10 +9,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Requirements
 To install the required python packages simply type
 
-pip3 install -r requirements.txt
-Additionaly, to use demo.pynb, you will also need coco python api. You can get this using
+pip install -r requirements.txt
 
-pip3 install git+https://github.com/philferriere/cocoapi.git
+## Built With
+
+* [Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 
 ### Download
 To download the datasets with images and annotation files from:
@@ -25,14 +26,10 @@ To download the datasets with images and annotation files from:
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Running the source codes
 
 ### Publications
 Vision-based  Material  Classification  for  Robotic  Urban  Waste  Sorting
-
-## Built With
-
-* [Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 
 
 ## Authors
