@@ -1,0 +1,45 @@
+### Setting up tf environment
+
+https://mc.ai/machine-learning-deep-learning-toolkit-installation-on-windows-10/
+
+conda install -c conda-forge opencv
+
+https://github.com/matterport/Mask_RCNN
+pip install -r requirements.txt
+python setup.py install
+
+conda install shapely
+
+# import tensorflow as tf 
+# print(tf.__version__)   ---> 1.13.1
+meta to pip install 1.13.1
+conda install -c anaconda tensorflow-gpu
+
+
+# import keras
+# print(keras.__version__) ---> 2.3.1 pip install keras==2.2.5
+
+conda install git
+pip install Cython
+pip install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"
+
+### tutorials
+
+tensorboard --logdir=F:\latest_MaskRCNN\anasa_detection\Mask_RCNN-master\logs
+
+https://towardsdatascience.com/computer-vision-instance-segmentation-with-mask-r-cnn-7983502fcad1
+
+https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
+
+
+tensorboard --logdir=F:\Fredy\anasa_detection\Mask_RCNN-master\logs  !!!
+
+tf_upgrade_v2 --infile C:/Users/maria/Anaconda3/envs/tf/lib/site-packages/mask_rcnn-2.1-py3.7.egg/mrcnn/model.py --outfile C:/Users/maria/Anaconda3/envs/tf/lib/site-packages/mask_rcnn-2.1-py3.7.egg/mrcnn/model_up.py
+
+
+#########
+activate tf2 
+
+Mask RCNN
+C:\Users\anasa\Documents\mk\anasaDetection\Mask_RCNN-master\mrcnn
+C:\Users\anasa\Documents\mk\anasaDetection\Mask_RCNN-master\samples
