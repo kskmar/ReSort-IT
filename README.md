@@ -38,7 +38,7 @@ See the list of [contributors](https://github.com/your/project/contributors) who
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the BSD License - see the [LICENSE.md](https://github.com/kskmar/ReSort-IT/blob/master/LICENSE.txt) file for details
 
 ## Acknowledgments
 
