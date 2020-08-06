@@ -18,11 +18,11 @@ pip install -r requirements.txt
 ### Download
 To download the datasets with images and annotation files from:
 
-⋅⋅* Basic Dataset <https://drive.google.com/file/d/1UVJ3XHo0a7VB648uNIAIMqWt99R7Yhcg/view?usp=sharing>
+Basic Dataset <https://drive.google.com/file/d/1UVJ3XHo0a7VB648uNIAIMqWt99R7Yhcg/view?usp=sharing>
 
-⋅⋅* Synthetic-Single Dataset <https://drive.google.com/file/d/16g5A-Hxh4qNATRWb0c1UdiBecLhfmIxN/view?usp=sharing>
+Synthetic-Single Dataset <https://drive.google.com/file/d/16g5A-Hxh4qNATRWb0c1UdiBecLhfmIxN/view?usp=sharing>
 
-⋅⋅* Synthetic-Complex Dataset <https://drive.google.com/file/d/18EeXpoLuDhgnUoVXEiw4lhYWZxrTmZRa/view?usp=sharing>
+Synthetic-Complex Dataset <https://drive.google.com/file/d/18EeXpoLuDhgnUoVXEiw4lhYWZxrTmZRa/view?usp=sharing>
 
 ## Running the tests
 
