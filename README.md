@@ -6,6 +6,16 @@
 
 see the [INSTALLATION.txt](https://github.com/kskmar/ReSort-IT/blob/master/installation.txt) file for details
 
+### Download the Datasets 
+
+To download the datasets with images and annotation files from:
+
+**Basic Dataset** <https://drive.google.com/file/d/1UVJ3XHo0a7VB648uNIAIMqWt99R7Yhcg/view?usp=sharing>
+
+**Synthetic-Single Dataset** <https://drive.google.com/file/d/16g5A-Hxh4qNATRWb0c1UdiBecLhfmIxN/view?usp=sharing>
+
+**Synthetic-Complex Dataset** <https://drive.google.com/file/d/18EeXpoLuDhgnUoVXEiw4lhYWZxrTmZRa/view?usp=sharing>
+
 ### Requirements
 To install the required python packages simply type
 
@@ -14,15 +24,6 @@ pip install -r requirements.txt
 ## Built With
 
 * [Mask_RCNN](https://github.com/matterport/Mask_RCNN)
-
-### Download
-To download the datasets with images and annotation files from:
-
-Basic Dataset <https://drive.google.com/file/d/1UVJ3XHo0a7VB648uNIAIMqWt99R7Yhcg/view?usp=sharing>
-
-Synthetic-Single Dataset <https://drive.google.com/file/d/16g5A-Hxh4qNATRWb0c1UdiBecLhfmIxN/view?usp=sharing>
-
-Synthetic-Complex Dataset <https://drive.google.com/file/d/18EeXpoLuDhgnUoVXEiw4lhYWZxrTmZRa/view?usp=sharing>
 
 ## Running the tests
 
