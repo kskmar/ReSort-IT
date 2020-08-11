@@ -47,8 +47,6 @@ This project is licensed under the BSD License - see the [LICENSE.md](https://gi
 
 * This research has been co‐financed by the European Union and Greek national funds through the Operational Program Competitiveness, Entrepreneurship and Innovation, under the call RESEARCH – CREATE – INNOVATE (project name: ANASA, code:T1EDK-03110), MIS 5031867.
 
-* This work was  additionally supported by computational time granted from the National Infrastructures for Research and Technology S.A. (GRNET) in the National HPC facility - ARIS - under project DeWaste ID pa200607.
-
 ## Results
 
 ![alt text](https://github.com/kskmar/ReSort-IT/blob/master/images/results.png)
