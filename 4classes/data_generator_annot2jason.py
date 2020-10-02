@@ -140,10 +140,6 @@ def create_annotation(im_path, image_id, category_id):
                               'bbox': [x,y,w,h],
                               }                
     return annotation
-
-    # cv2.imwrite("D:/Fredy/Dataset/recycle/train/masks/"+str(image_id)+"a.png", red)
-    # cv2.imwrite("D:/Fredy/Dataset/recycle/train/masks/"+str(image_id)+"b.png", res)
-    # cv2.imwrite("D:/Fredy/Dataset/recycle/train/masks/"+str(image_id)+"c.png", c_img)
     
                     
 def filter_for_jpeg(root, files):
