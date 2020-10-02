@@ -78,14 +78,3 @@ for i in range(len(image_paths)):
     bgchoice = random.choice(bg_paths)
     imgBack = cv2.imread(bgchoice)
     replaceBG(img, imgBack, imgname)
-
-    # i = 130
-    # for image_path in image_paths:
-    #     img=Image.open(image_path)
-    #     #print (img)
-    # #    cv2.imwrite(path_folder +"/recy_images/"+str(category_id)+"_"+str(num_id)+".png", img)
-    #     im_crop = img.crop((1081,393, 1081+800,393+800))       #(700, 1, 1500, 801) , 635,403, 635+800,403+800)
-    #     im_crop.save("C:/Users/anasa/Desktop/Datasets/forTrainAlu1BG/bgs/"+"bgr"+str(i)+".png", quality=95)
-        
-    #     #cv2.imwrite("C:/Users/anasa/Desktop/Datasets/forTrainAlu1BG/bgs/"+"bgr"+str(i)+".png", img)
-    #     i += 1
