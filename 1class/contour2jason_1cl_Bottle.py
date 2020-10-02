@@ -86,10 +86,6 @@ def create_annotation(im_path, image_id, category_id):
                               'bbox': [x,y,w,h],
                               }            
     return annotation
-
-
-    
-
                     
 def filter_for_jpeg(root, files):
     file_types = ['*.png', '*.png']
