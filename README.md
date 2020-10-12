@@ -51,3 +51,4 @@ This project is licensed under the BSD License - see the [LICENSE.md](https://gi
 
 ![alt text](https://github.com/kskmar/ReSort-IT/blob/master/images/results.png)
 
+
