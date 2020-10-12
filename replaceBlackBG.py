@@ -10,8 +10,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2
 
-
-
 img = cv2.imread(r'D:\gp_dataset\bottle1CL\3_bottles\3_0.png')
 # image_copy = np.copy(img)
 # plt.imshow(img)
@@ -43,4 +41,5 @@ plt.imshow(crop_background)
 complete_image = masked_image + crop_background
 cv2.imwrite(r'D:\gp_dataset\bottle1CL\Ztrash\xxx.jpeg', complete_image)
 plt.imshow(complete_image)
+
 
