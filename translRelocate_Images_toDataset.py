@@ -5,7 +5,6 @@ Created on Fri Jun 26 14:54:02 2020
 @author: anasa
 """
 
-
 #importing modules
 import matplotlib.pyplot as plt
 import numpy as np
