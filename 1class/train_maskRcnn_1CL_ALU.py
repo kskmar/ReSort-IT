@@ -17,7 +17,6 @@ ROOT_DIR = 'C:/Users/anasa/Documents/mk/anasaDetection/Mask_RCNN-master'
 SAVE_DIR = 'C:/Users/anasa/Documents/mk/anasaDetection/Mask_RCNN-master/h5files'
 assert os.path.exists(ROOT_DIR), 'ROOT_DIR does not exist. Did you forget to read the instructions above? ;)'
 
-
 # Directory to save logs and trained model
 MODEL_DIR = os.path.join(ROOT_DIR, "logs")
 
