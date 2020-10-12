@@ -8,7 +8,6 @@ import fnmatch
 from PIL import Image
 from pycococreatortools import pycococreatortools
 
-
 ROOT_DIR = 'C:/Users/anasa/Desktop/Datasets/forTrainAlu1'
 #IMAGE_DIR = os.path.join(ROOT_DIR, "test_im")
 IMAGE_DIR = os.path.join(ROOT_DIR, "val")
