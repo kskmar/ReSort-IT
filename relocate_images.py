@@ -40,4 +40,4 @@ for image_path in image_paths:
     #print (img)
 #    cv2.imwrite(path_folder +"/recy_images/"+str(category_id)+"_"+str(num_id)+".png", img)
     cv2.imwrite("D:/Datasets/bigDataset4cl/train/bg/bb/"+ str(i)+".jpg", img)
-    i -= 1
+    i -= 1 
