@@ -27,3 +27,4 @@ pip install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&sub
 
 tensorboard --logdir=F:\latest_MaskRCNN\anasa_detection\Mask_RCNN-master\logs
 
+ 
