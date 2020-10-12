@@ -31,8 +31,6 @@ import mrcnn.model as modellib
 
 maskRcnnfolder = 'C:/Users/anasa/Documents/mk/anasaDetection/Mask_RCNN-master/'
 
-
-
 class RecycleConfig(Config):
     """Configuration for training on the cigarette butts dataset.
     Derives from the base Config class and overrides values specific
